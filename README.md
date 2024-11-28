@@ -165,6 +165,17 @@ This repository contains the implementation of a book shop API with various rout
 
 ---
 
+## Author Details
+
+**Author**: [Sanket Padgal](https://github.com/swsanket)  
+**Email**: [workwithsanketpadgal@gmail.com](mailto:workwithsanketpadgal@gmail.com)  
+**LinkedIn**: [Sanket Padgal](https://www.linkedin.com/in/swspadgal1112/)
+**Twitter**: [@SRPwithsanket](https://x.com/SRPwithsanket)
+
+Feel free to reach out if you have any questions or suggestions.
+
+---
+
 ## Contributing
 
 1. Fork the repository.
@@ -175,6 +186,4 @@ This repository contains the implementation of a book shop API with various rout
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Author details
